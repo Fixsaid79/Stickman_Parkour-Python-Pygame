@@ -1,0 +1,15 @@
+{
+    "dialog_001": "Start Game",
+    "dialog_002": "Language / Язык",
+    "dialog_003": "Exit Game",
+    "dialog_004": "This function is under testing",
+    "dialog_005": "Press 'Z' to read the manual. Press 'X' to skip",
+    "dialog_006": "Press 'Z' to switch dialogue. Press ESC to exit. $ Controls: Press UP arrow to jump",
+    "dialog_006+1": "RIGHT and LEFT arrows work normally. To beat the game, you $ must collect 3 key parts. Without them, $ the final level won't open",
+    "dialog_008": "You can also find a 'Chance' on the levels. It allows you $ to respawn on the final level upon death $ Check the 2nd platform of each level and press 'Z'",
+    "dialog_009": "Level Cleared! Press 'Z' to continue",
+    "dialog_010": "You received a 'Key Part'!",
+    "dialog_011": "You received a 'Chance'!",
+    "dialog_012": "You tried to pick up something, but failed... $ # # # # # # # # # # # $ F#i#n#d# y#o#u#r# o#w#n# h#a#n#d",
+    "dialog_013": "D#O# #Y#O#U# #W#A#N#T# #T#O# R#E#S#E#T#.#.#.#?# # # # $ I#F# #Y#E#S# #P#R#E#S#S# #'#Z#'#.# #E#L#S#E# #'#X#'"
+}

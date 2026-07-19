@@ -1,0 +1,15 @@
+{
+    "dialog_001": "O'yinni Boshlash",
+    "dialog_002": "Tilni O'zgartirish",
+    "dialog_003": "O'yindan Chiqish",
+    "dialog_004": "Bu funksiya hozircha sinov jarayonida",
+    "dialog_005": "Yo'riqnomani o'qish uchun 'Z' ni bosing. O'tkazib yuborishn $ uchun 'X' ni bosing",
+    "dialog_006": "Muloqotni davom ettirish uchun 'Z' ni bosing. Chiqish uchun ESC. $ Boshqaruv: Sakrash uchun TEPAGA yo'nalish tugmasini bosing",
+    "dialog_006+1": "O'NG va CHAP tugmalari odatiy ishlaydi. G'alaba qozonish $ uchun kalitning 3 ta qismini yig'ishingiz kerak Ularsiz so'nggi $ darajani ochib bo'lmaydi",
+    "dialog_008": "Shuningdek, darajalardan 'Imkoniyat' topishingiz mumkin $ U yordamida so'nggi darajada o'limdan keyin qayta tug'ilasiz $ Darajalarning 2-platformasida 'Z' ni bosing",
+    "dialog_009": "G'alaba! Davom etish uchun 'Z' ni bosing",
+    "dialog_010": "Siz Kalit bo'lagini qo'lga kiritdingiz!",
+    "dialog_011": "Siz Imkoniyatno qo'lga kiritdingiz!",
+    "dialog_012": "Siz nimadir olmoqchi bo'ldingiz, lekin uddalay olmadingiz... $ # # # # # # # # # # # $ O#'z# q#o#'l#i#n#g#n#i# t#o#p#i#s#h#n#i",
+    "dialog_013": "D#O# #Y#O#U# #W#A#N#T# #T#O# R#E#S#E#T#.#.#.#?# # # # # $ I#F# #Y#E#S# #P#R#E#S#S# #'#Z#'#.# #E#L#S#E# #'#X#'"
+}
